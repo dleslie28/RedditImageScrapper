@@ -1,2 +1,2 @@
 # RedditImageScrapper
-Simple java script to scrape reddit images
+Simple java program to scrape reddit images
